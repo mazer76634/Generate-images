@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 900">
+ <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#123c56"/><stop offset="1" stop-color="#111827"/></linearGradient><radialGradient id="halo"><stop stop-color="#9de5ee" stop-opacity=".8"/><stop offset="1" stop-color="#9de5ee" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1040" height="900" fill="url(#bg)"/><circle cx="520" cy="390" r="350" fill="url(#halo)"/>
+ <g fill="none" stroke="#9de5ee" opacity=".45" stroke-width="5"><circle cx="520" cy="390" r="300"/><circle cx="520" cy="390" r="260" stroke-dasharray="12 20"/><path d="M0 700Q170 560 330 700T660 700T1040 680" /></g>
+ <g fill="#9de5ee" opacity=".35"><path d="M0 720l150-170 130 170 150-220 160 220 170-180 150 180 130-140v180H0Z"/></g>
+ <g transform="translate(0 0)"><path d="M340 470Q250 250 420 220Q510 200 520 340Q610 210 710 300Q780 420 610 520L500 610Z" fill="#dc6658" stroke="#9de5ee" stroke-width="12"/><path d="M450 330l-160-110 70 190M610 340l170-120-80 200" fill="none" stroke="#9de5ee" stroke-width="18"/></g>
+ <g fill="none" stroke="#dc6658" stroke-width="13" stroke-linecap="round" opacity=".8"><path d="M100 260q80-65 160 0t160 0M620 680q80-65 160 0t160 0"/></g>
+ <text x="520" y="785" fill="#9de5ee" font-size="72" text-anchor="middle" font-family="serif" font-weight="bold">精卫</text>
+ <text x="520" y="835" fill="#fff2d6" font-size="28" text-anchor="middle" font-family="sans-serif" letter-spacing="8">精卫填海 · 衔石</text>
+ <title>精卫 - 赤羽神鸟衔石飞越东海，海浪翻涌</title></svg>
