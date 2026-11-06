@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 900">
+ <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#183e39"/><stop offset="1" stop-color="#111827"/></linearGradient><radialGradient id="halo"><stop stop-color="#d9f0c2" stop-opacity=".8"/><stop offset="1" stop-color="#d9f0c2" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1040" height="900" fill="url(#bg)"/><circle cx="520" cy="390" r="350" fill="url(#halo)"/>
+ <g fill="none" stroke="#d9f0c2" opacity=".45" stroke-width="5"><circle cx="520" cy="390" r="300"/><circle cx="520" cy="390" r="260" stroke-dasharray="12 20"/><path d="M0 700Q170 560 330 700T660 700T1040 680" /></g>
+ <g fill="#d9f0c2" opacity=".35"><path d="M0 720l150-170 130 170 150-220 160 220 170-180 150 180 130-140v180H0Z"/></g>
+ <g transform="translate(0 0)"><path d="M350 490Q330 300 500 230Q670 190 720 380Q740 520 590 590L420 570Z" fill="#c39a48" stroke="#d9f0c2" stroke-width="14"/><path d="M430 280L350 140 500 240 580 120 610 260 760 180 650 330" fill="#d9f0c2"/><circle cx="600" cy="400" r="25" fill="#d9f0c2"/></g>
+ <g fill="none" stroke="#c39a48" stroke-width="13" stroke-linecap="round" opacity=".8"><path d="M100 260q80-65 160 0t160 0M620 680q80-65 160 0t160 0"/></g>
+ <text x="520" y="785" fill="#d9f0c2" font-size="72" text-anchor="middle" font-family="serif" font-weight="bold">麒麟</text>
+ <text x="520" y="835" fill="#fff2d6" font-size="28" text-anchor="middle" font-family="sans-serif" letter-spacing="8">祥瑞神兽 · 瑞兽</text>
+ <title>麒麟 - 金角麒麟踏祥云而来，鳞甲如玉，瑞光万丈</title></svg>
