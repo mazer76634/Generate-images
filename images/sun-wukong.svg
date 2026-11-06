@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 900">
+ <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#231d42"/><stop offset="1" stop-color="#111827"/></linearGradient><radialGradient id="halo"><stop stop-color="#ffd36a" stop-opacity=".8"/><stop offset="1" stop-color="#ffd36a" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1040" height="900" fill="url(#bg)"/><circle cx="520" cy="390" r="350" fill="url(#halo)"/>
+ <g fill="none" stroke="#ffd36a" opacity=".45" stroke-width="5"><circle cx="520" cy="390" r="300"/><circle cx="520" cy="390" r="260" stroke-dasharray="12 20"/><path d="M0 700Q170 560 330 700T660 700T1040 680" /></g>
+ <g fill="#ffd36a" opacity=".35"><path d="M0 720l150-170 130 170 150-220 160 220 170-180 150 180 130-140v180H0Z"/></g>
+ <g transform="translate(0 0)"><path d="M420 500Q330 360 420 235Q500 140 580 235Q660 360 560 500L520 610H450Z" fill="#d45b26" stroke="#ffd36a" stroke-width="12"/><path d="M430 280l-85-100 125 45 40-105 40 105 120-45-85 100" fill="#ffd36a"/><path d="M350 420L680 180M390 500L650 255" stroke="#ffd36a" stroke-width="18" stroke-linecap="round"/></g>
+ <g fill="none" stroke="#d45b26" stroke-width="13" stroke-linecap="round" opacity=".8"><path d="M100 260q80-65 160 0t160 0M620 680q80-65 160 0t160 0"/></g>
+ <text x="520" y="785" fill="#ffd36a" font-size="72" text-anchor="middle" font-family="serif" font-weight="bold">孙悟空</text>
+ <text x="520" y="835" fill="#fff2d6" font-size="28" text-anchor="middle" font-family="sans-serif" letter-spacing="8">齐天大圣 · 猴王</text>
+ <title>孙悟空 - 金箍棒破云而出，火眼金睛，赤金战甲与凤翅紫金冠</title></svg>
