@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#263e72"/><stop offset=".55" stop-color="#e6a66f"/><stop offset="1" stop-color="#fff0d2"/></linearGradient>
+ <linearGradient id="coat" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#e8edf6"/><stop offset="1" stop-color="#aab8d0"/></linearGradient>
+ <linearGradient id="gold"><stop stop-color="#8d4c16"/><stop offset=".5" stop-color="#ffe49a"/><stop offset="1" stop-color="#a85b16"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="900" fill="url(#sky)"/>
+<circle cx="920" cy="190" r="110" fill="#fff3c7" opacity=".7" filter="url(#glow)"/>
+<circle cx="920" cy="190" r="75" fill="#fff0c4" opacity=".8"/>
+<g fill="#26385f" opacity=".72"><path d="M0 520 170 260 300 510 430 300 590 560 760 260 930 540 1090 300 1200 510V900H0Z"/><path d="M0 660 180 430 330 680 510 420 700 690 900 430 1080 680 1200 500V900H0Z" opacity=".65"/></g>
+<g fill="#fff" opacity=".75"><path d="M0 480q100-90 220-10t220-10 210 25 200-30 190 10 160-15v95H0Z"/><path d="M0 610q150-70 300 0t280-5 250 0 220-10 150 15v85H0Z" opacity=".65"/></g>
+<g transform="translate(120 90)">
+ <!-- flowing mane -->
+ <path d="M360 330Q170 170 90 250Q220 260 255 355Q80 330 35 445Q190 410 280 470Q110 500 95 625Q255 560 350 520Q210 650 255 735Q390 640 435 545Z" fill="#fff" stroke="#d5e0f0" stroke-width="8"/>
+ <path d="M560 280Q720 140 840 190Q730 250 700 350Q840 310 930 400Q780 390 700 475Q860 490 900 590Q730 560 650 540Z" fill="#fff" stroke="#d5e0f0" stroke-width="8"/>
+ <!-- tail -->
+ <path d="M650 590Q850 610 980 760Q830 735 720 680Q870 820 1030 820Q820 865 650 720Z" fill="#f8fbff" stroke="#d5e0f0" stroke-width="8"/>
+ <!-- body -->
+ <path d="M300 390Q380 300 540 330Q700 350 735 490Q760 610 650 690Q520 770 370 675Q250 600 260 485Z" fill="url(#coat)" stroke="#8d9bb2" stroke-width="7"/>
+ <!-- neck and head -->
+ <path d="M500 460Q470 320 540 190Q585 100 690 115Q770 130 760 230Q750 300 690 350L730 430Q650 485 570 500Z" fill="url(#coat)" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M685 135Q730 60 770 40Q795 125 755 180Z" fill="#f8fbff" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M575 150Q550 65 575 30Q635 85 620 165Z" fill="#f8fbff" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M740 250Q820 230 865 270Q840 335 770 330L710 305Z" fill="#e8edf6" stroke="#8d9bb2" stroke-width="7"/>
+ <ellipse cx="700" cy="235" rx="15" ry="20" fill="#1c2741"/><circle cx="705" cy="228" r="5" fill="#fff"/>
+ <path d="M820 295q20 18 0 30" fill="none" stroke="#68758d" stroke-width="7" stroke-linecap="round"/>
+ <!-- legs -->
+ <path d="M360 620Q330 710 300 790L350 805 420 700 455 640Z" fill="url(#coat)" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M530 665Q560 740 555 825L610 830 630 730 620 650Z" fill="url(#coat)" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M680 610Q760 700 785 800L840 800 810 690 755 570Z" fill="url(#coat)" stroke="#8d9bb2" stroke-width="7"/>
+ <path d="M300 790l55 0 8 28q-45 25-90 0Z M555 820l55 0 10 30q-45 22-88-3Z M785 795l58-5 12 30q-45 28-85 2Z" fill="#34415c"/>
+ <!-- gold armor -->
+ <path d="M500 400Q610 350 730 410L700 500Q590 545 485 485Z" fill="url(#gold)" stroke="#7c4319" stroke-width="8"/>
+ <path d="M520 420Q610 390 700 430M510 455Q610 425 710 465" fill="none" stroke="#fff0b0" stroke-width="9"/>
+ <circle cx="620" cy="450" r="36" fill="#a74b23" stroke="#ffe39a" stroke-width="10"/>
+ <circle cx="620" cy="450" r="16" fill="#f9df9a"/>
+ <path d="M540 500Q620 560 730 510L770 590Q650 660 520 575Z" fill="#a52d32" stroke="#f1bd5c" stroke-width="8"/>
+ <path d="M540 520Q470 620 430 730Q500 685 585 580M690 520Q760 610 830 680Q780 560 735 500" fill="none" stroke="#c52f38" stroke-width="28"/>
+ <path d="M520 510Q600 550 730 505" fill="none" stroke="#ffe7a0" stroke-width="8"/>
+ <!-- forehead ornament -->
+ <path d="M655 145l35-35 35 35-35 38Z" fill="url(#gold)" stroke="#8d4a18" stroke-width="5"/>
+ <circle cx="690" cy="148" r="10" fill="#b82d38"/>
+</g>
+<g fill="none" stroke="#fff4d1" stroke-width="8" opacity=".8"><path d="M0 760q180-80 350 0t350 0 350 0 250-10"/><path d="M0 815q180-80 350 0t350 0 350 0 250-10"/></g>
+<text x="600" y="865" font-family="serif" font-size="34" text-anchor="middle" fill="#fff4df" letter-spacing="10">白 龙 马</text>
+</svg>
